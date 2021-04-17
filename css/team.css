@@ -1,0 +1,112 @@
+body{
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+}
+.p-font-size{
+    font-size: 15px;
+}
+/*team-1 section css start*/
+.ptb-50{
+    padding: 50px 0;
+}
+.feature-block{
+    text-align: center;
+
+}
+.feature-block a{
+    text-transform: uppercase;
+}
+.learn-more{
+    text-decoration: none;
+    color: black;
+    letter-spacing: 0.05rem;
+    border-bottom: 2px solid black;
+}
+.img-content{
+    width: 300px;
+    height: 300px;
+}
+.img-size{
+    object-fit: cover;
+    width: 280px;
+    height: 280px;
+    
+}
+.img-profile{
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    padding-top: 40px;
+}
+.img-profile i{
+    font-size: 20px;
+}
+/*team-1 section css end*/
+
+
+/*team-2 section css start*/
+
+.ptb-30{
+    padding: 30px 0;
+}
+
+.font-weight-bold{
+   
+    font-weight: 600
+  
+}
+.font-style-h3{
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.profile-img-size{
+    width: 80%;
+    height: 300px;
+    object-fit: cover;
+
+}
+.team-member-profile{
+    text-align: center;
+}
+.font-color-blue{
+    color: #2945FF;
+
+}
+
+/*team-2 section css end*/
+
+/*team-3 section css start*/
+.feature-heading-three{
+    width: 340px;
+    height: 400px;
+    padding-top: 30px;
+}
+.team-three-img-size{
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+
+}
+.profile-name{
+    padding: 10px 0;
+}
+..team-three-img-size{
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+
+}
+.social-icon i{
+    padding: 0 15px;
+}
+/*team-3 section css end*/
+/*team-4 section css start*/
+
+.profile-img img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+/*team-4 section css end*/
