@@ -1,0 +1,49 @@
+.team-info{
+    padding: 20px;
+    transition: transform .3s;
+}
+.team-info:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); 
+   
+
+
+}
+.team-info img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+
+}
+.card-img-top img{
+    border: 6px solid #E8EDFB;
+
+
+}
+.text-color-h3{
+    color: #7A7D9B;
+}
+.designer{
+    color: #C4D0DE;
+    letter-spacing: 0.08rem;
+    font-size: 15px;
+}
+.card-text{
+    color: #A0A5A8;
+}
+.icon-color{
+    width: 35px;
+    height: 35px;
+    background-color:#5221AF;
+    line-height:35px;
+    border-radius: 50%;
+    text-align: center;
+  
+}
+.icon-color i{
+    color: #FEFFFF;
+    padding: 2px;
+  
+
+}
